@@ -1,0 +1,15 @@
+[package]
+name = "animation"
+version = "0.1.0"
+authors = ["Sarmad Gulzar <sarmadgulzar@hotmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "Animations with Rust"
+readme = "README.md"
+homepage = "https://github.com/sarmadgulzar/rust-animation"
+repository = "https://github.com/sarmadgulzar/rust-animation"
+keywords = ["animations"]
+categories = ["graphics"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
